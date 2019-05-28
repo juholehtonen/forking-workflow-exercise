@@ -4,6 +4,8 @@
 
 We will run this exercise in groups. Groups can choose a number or a name.
 
+TESTING
+
 Objectives:
 
 - Learn how to fork, modify the fork, and file a pull request towards forked repo
